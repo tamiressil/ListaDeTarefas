@@ -1,4 +1,4 @@
-# React + Vite
+# Lista De Tarefas
 
  -  Uma lista de tarefas onde você consegue adicionar e remover os seus compromissos.
    
@@ -11,7 +11,8 @@
  - HTML.
  - CSS.
  - JavaScript
-
+ - React JS
+ - Vite
    
 
   ## Imagem do projeto:
